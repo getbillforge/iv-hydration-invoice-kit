@@ -1,1 +1,1 @@
-# iv-hydration-invoice-demo
+# iv-hydration-invoice-kit
